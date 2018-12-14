@@ -1,2 +1,4 @@
 test de
-contribution sur GtHb (la typo est voulue).
+contribution sur GitHub.
+
+GitHub c'est un truc qui permet de partager son code. C'est aussi un gestion de version de son code (comme si l'on sauvegardais son code à chaque mise à jours afin de downgrader un projet par exemple).
